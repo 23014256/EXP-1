@@ -52,7 +52,7 @@ a.   KVL:
 b.  KCL:
 
 
- <img width="623" height="289" alt="Screenshot 2025-09-14 221129" src="https://github.com/user-attachments/assets/0bedeb
+ <img width="623" height="289" alt="Screenshot 2025-09-14 221129" src="https://github.com/user-attachments/assets/0bedeb22-f15a-493c-9b00-a1978abfdfb4" />
  
 
 Calculation:
